@@ -373,7 +373,7 @@ p {
     padding: 45px 42px;
     border-radius: 150px 150px 30px 30px;
     position: relative;
-    min-height: 390px;
+    height: 390px;
 }
 
 .process_box .number {
